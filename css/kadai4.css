@@ -1,0 +1,43 @@
+h1{
+  color:honeydew;
+  font-size: 50px;
+  font-weight:  bold;
+  font-family: "Impact";
+  text-align: center;
+  background-color:black;
+}
+
+h2{
+    color:indigo;
+    font-weight:bold;
+    text-align:center;
+    background-color: lightgreen;
+}
+
+h3{
+    color: blueviolet;
+    font-weight: bold;
+}
+
+p{
+    color: aquamarine;
+}
+
+body{
+   background-image: url("../images/pazuru.jpeg");
+   background-repeat: repeat;
+   background-attachment: fixed;
+   background-position: bottom right;      
+}
+h2#tatsu{
+     color:orchid;
+    font-weight:bolder;
+    text-align:center;
+    background-color:pink;
+}
+h2#unno{
+     color:rebeccapurple;
+    font-weight:lighter;
+    text-align:center;
+    background-color:red;
+}
