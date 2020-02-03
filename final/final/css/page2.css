@@ -30,9 +30,9 @@ div.bottom{
     font-size: 25px;
 }
 
-div.left{
+span.left{
     width: 250px;
-    height: 700px;
+    height: 790px;
     background-color: honeydew;
     display: inline-block;
     vertical-align: top;
@@ -94,9 +94,9 @@ div.menuimage{
     margin-left: 5px;
 }
 
-div.right{
+span.right{
     width: 700px;
-    height: 280px;
+    height: 300px;
     background-color: pink;
     display: inline-block;
     vertical-align: top;
